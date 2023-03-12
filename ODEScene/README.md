@@ -23,4 +23,4 @@ This will generate a video of the animation in the `media/videos` folder. The `-
 
 ## Credits
 
-This example is based on the tutorial on solving first-order ODEs using the method of integrating factors on [math24.net](https://math24.net/first-order-linear-differential-equations-method-of-integrating-factors.html).
+This example is based on the tutorial on solving first-order ODEs.
