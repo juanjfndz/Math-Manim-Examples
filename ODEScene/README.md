@@ -2,6 +2,12 @@
 
 This repository contains a Manim example for animating the derivation of the solution to a first-order ordinary differential equation using the method of integrating factors. 
 
+
+
+https://user-images.githubusercontent.com/76520097/232329148-f0182a2d-b8f7-4b52-9707-1bd7c0045cdd.mp4
+
+ 
+
 ## Installation
 
 To run this example, you need to install Manim. You can install Manim using pip:
